@@ -72,6 +72,7 @@ __links__:
     * [let vs. var](https://github.com/janke-learning/hoisting-variables)
 * javascript.info: [variables](http://javascript.info/variables) 
 * practical js: [variables](https://shawnr.gitbooks.io/practical-introduction-to-javascript/content/basic-syntax/45-variables.html)
+* LearnTeachCode: [variables & memory](https://github.com/LearnTeachCode/intro-javascript-class/blob/july-aug-2018/week-1/1-8-memory-variables.md)
 * free code camp:
     * [declaring variables](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables/)
     * [initializing with assignment](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator/)
