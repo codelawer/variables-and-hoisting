@@ -19,6 +19,7 @@ Not taking the time to learn these skills now may feel harmless and probably won
 ### Index
 * [Learning Objectives](#learning-objectives)
 * [Resources](#resources)
+* [js in order](https://github.com/janke-learning/js-in-order)
 
 ---
 
