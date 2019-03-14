@@ -64,7 +64,7 @@ __study tools__:
 __links__:
 * on pytut: 
     * [snippet: Declaration](https://goo.gl/dGfhNj) - declaration tells JavaScript to create a new variable that can be used to store values later on, but does not assign it a value. 
-    * [snippet: Assignment](https://goo.gl/PJNF5x) - assignment tells JS to set a new value to a variable
+    * [snippet: Assignment](https://goo.gl/14s6vU) - assignment tells JS to set a new value to a variable. if no value is assigned, the variable will default to _undefined_
     * [snippet: Hoisting](https://goo.gl/Ruc4gB) - JS declares (but not defines) "var" variables during the _creation phase_ of a program.
     * [video: variables & values of primitive types](https://www.youtube.com/watch?v=pHt_tKYUgbo&index=2&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u)
 * snippet studies:
