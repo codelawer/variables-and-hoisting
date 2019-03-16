@@ -33,9 +33,10 @@ _Source-Code vs Running Program_: Learning to understand the difference between 
 
 __JavaScript:__
 * Variables: var, let, const
-  * Assignment by value
+  * Declaration
+  * Assigning values
   * Reassignment
-  * Hoisting behavior
+  * Hoisting 
 
 __Programming Skillzz:__
 * Code life-cycle:
