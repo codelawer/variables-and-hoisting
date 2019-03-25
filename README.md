@@ -72,11 +72,7 @@ __links__:
     * [snippet: Declaration](https://goo.gl/dGfhNj) - declaration tells JavaScript to create a new variable that can be used to store values later on, but does not assign it a value. 
     * [snippet: Assignment](https://goo.gl/14s6vU) - assignment tells JS to set a new value to a variable. if no value is assigned, the variable will default to _undefined_
     * [snippet: Hoisting](https://goo.gl/Ruc4gB) - JS declares (but not defines) "var" variables during the _creation phase_ of a program.
-<<<<<<< HEAD
-    * [snippet: comma operator](https://goo.gl/ZtxPzU)
-=======
     * [snippet: comma operator](https://goo.gl/ZtxPzU) - doing many things on one line
->>>>>>> c6732751fb0fba35e7e942ebdeb6788229e2c273
     * [video: variables & values of primitive types](https://www.youtube.com/watch?v=pHt_tKYUgbo&index=2&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u)
 * snippet studies:
     * [the Value Swap](https://github.com/janke-learning/value-swap) - a good and simple way to check your understanding of variables
