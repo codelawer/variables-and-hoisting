@@ -101,18 +101,18 @@ __links__:
 The exercises below are all focused on understanding the [JS notional machine](https://github.com/janke-learning/js-notional-machine), they will push your understanding of JavaScript's runtime behavior.  Each exercise focuses on manipulating _program state_ over the course of execution not on solving programming challenges or producing a final answer.  
 
 __Swaps__ will give you a bunch of variables with the wrong value assigned and a temporary variable you can use for storing values.  Your task is to get the right values to the right variables in as few steps as possible by shuffling around the available values.
-* challenges
-    1. [the first](https://goo.gl/k9jdZy)
-    1. [the second](https://goo.gl/KvayUU)
-    1. [the third](https://goo.gl/WXXtV7)
-    1. [the fourth](https://goo.gl/nTA1DG)
-    1. [the fifth](https://goo.gl/gDaKNi)
 * example solutions
     1. the first: [pytut](https://goo.gl/mk9xd3), [parsons](https://janke-learning.github.io/parsonizer/?snippet=let%20a%20%3D%20%22b%22%2C%20b%20%3D%20%22a%22%3B%0Alet%20_%20%3D%20'%20'%3B%0A%0A_%20%3D%20b%3B%0Ab%20%3D%20a%3B%0Aa%20%3D%20_%3B)
     1. the second: [pytut](https://goo.gl/BWKuGm), [parsons](https://janke-learning.github.io/parsonizer/?snippet=let%20a%20%3D%20%22c%22%2C%20b%20%3D%20%22a%22%2C%20c%20%3D%20%22b%22%3B%0Alet%20_%20%3D%20'%20'%3B%0A%0A_%20%3D%20c%3B%0Ac%20%3D%20a%3B%0Aa%20%3D%20b%3B%0Ab%20%3D%20_%3B%0A)
     1. the third: [pytut](https://goo.gl/jeBHWU), [parsons](https://janke-learning.github.io/parsonizer/?snippet=let%20a%20%3D%20%22d%22%2C%20b%20%3D%20%22a%22%2C%20c%20%3D%20%22b%22%2C%20d%20%3D%20%22c%22%3B%0Alet%20_%20%3D%20'%20'%3B%0A%0A_%20%3D%20a%3B%0Aa%20%3D%20b%3B%0Ab%20%3D%20c%3B%0Ac%20%3D%20d%3B%0Ad%20%3D%20_%3B%0A)
     1. the fourth: [pytut](https://goo.gl/C8t81i), [parsons](https://janke-learning.github.io/parsonizer/?snippet=let%20a%20%3D%20%22z%22%2C%20b%20%3D%20%22y%22%2C%20c%20%3D%20%22x%22%2C%20d%20%3D%20%22w%22%3B%0Alet%20_%20%3D%20'%20'%3B%0A%0A_%20%3D%20a%3B%0Aa%20%3D%20d%3B%0Ad%20%3D%20_%3B%0A_%20%3D%20b%3B%0Ab%20%3D%20c%3B%0Ac%20%3D%20_%3B%0A)
     1. the fifth: [pytut](https://goo.gl/KokxwL), [parsons](https://janke-learning.github.io/parsonizer/?snippet=let%20a%20%3D%20%22z%22%2C%20b%20%3D%20%22y%22%2C%20c%20%3D%20%22x%22%2C%20d%20%3D%20%22w%22%2C%20e%20%3D%20%22v%22%3B%0Alet%20_%20%3D%20'%20'%3B%0A%0A_%20%3D%20a%3B%0Aa%20%3D%20e%3B%0Ae%20%3D%20_%3B%0A_%20%3D%20b%3B%0Ab%20%3D%20d%3B%0Ad%20%3D%20_%3B%0A)
+* challenges
+    1. [the first](https://goo.gl/k9jdZy)
+    1. [the second](https://goo.gl/KvayUU)
+    1. [the third](https://goo.gl/WXXtV7)
+    1. [the fourth](https://goo.gl/nTA1DG)
+    1. [the fifth](https://goo.gl/gDaKNi)
 
 
 __Sentences__ ask you to reassign variables so that at each step of execution the variables spell out the next word in a sentence.  See how few reassignments you can use per step!
