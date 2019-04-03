@@ -40,6 +40,7 @@ __JavaScript:__
 * comma operator 
   * multiple declarations in one step
   * multiple assignments in one step
+* chaining variable assignmnets
 
 __Programming Skillzz:__
 * Code life-cycle:
@@ -72,6 +73,7 @@ __links__:
     * [snippet: Declaration](https://goo.gl/dGfhNj) - declaration tells JavaScript to create a new variable that can be used to store values later on, but does not assign it a value. 
     * [snippet: Assignment](https://goo.gl/14s6vU) - assignment tells JS to set a new value to a variable. if no value is assigned, the variable will default to _undefined_
     * [snippet: Hoisting](https://goo.gl/Ruc4gB) - JS declares (but not defines) "var" variables during the _creation phase_ of a program.
+    * [chained assignments](http://www.pythontutor.com/javascript.html#code=//%20this%20chained%20assignment%0Alet%20a,%20b,%20c%3B%0Aa%20%3D%20b%20%3D%20c%20%3D%204%3B%0A%0A//%20is%20equivalent%20to%0Alet%20x,%20y,%20z%3B%0Az%20%3D%204%3B%0Ay%20%3D%20z%3B%0Ax%20%3D%20y%3B%0A%0A//%20primitives%20can%20only%20be%20on%20the%20far%20right%0A4%20%3D%20a%20%3D%20b%20%3D%20c%3B%0Aa%20%3D%204%20%3D%20b%20%3D%20c%3B%0A//%20variables%20between%20two%20%22%3D%22%20are%20both%20read%20and%20written&mode=edit&origin=opt-frontend.js&py=js&rawInputLstJSON=%5B%5D)
     * [snippet: comma operator](https://goo.gl/ZtxPzU) - doing many things on one line
     * [video: variables & values of primitive types](https://www.youtube.com/watch?v=pHt_tKYUgbo&index=2&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u)
 * snippet studies:
