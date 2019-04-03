@@ -98,7 +98,7 @@ __links__:
 
 ## Exercises
 
-The exercises below are all focused on understanding the [JS notional machine](https://github.com/janke-learning/js-notional-machine), they will push your understanding of JavaScript's runtime behavior.  Each exercise focuses on manipulating _program state_ over the course of execution not on solving programming challenges or producing a final answer.  
+The exercises below are all focused on understanding the [JS notional machine](https://github.com/janke-learning/js-notional-machine), they will push your understanding of JavaScript's runtime behavior.  Each exercise focuses on strategically controlling _program state_ over the course of execution to complete a task. Learning to think of and plan your programs as a series of values stored in memory will help with planning, debugging, and algorithms.
 
 __Swaps__ will give you a bunch of variables with the wrong value assigned and a temporary variable you can use for storing values.  Your task is to get the right values to the right variables in as few steps as possible by shuffling around the available values.
 * example solutions
