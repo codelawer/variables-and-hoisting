@@ -139,7 +139,7 @@ __Sentences__ ask you to reassign variables so that at each step of execution th
     * challenges: 
         1. [the toad reads me](https://goo.gl/4eqhLb)
         1. [eating meat every meal](https://goo.gl/F9Njwp)
-        1. [many men may melt my mind](https://goo.gl/16C62t)
+        1. [many men may melt my mind](http://www.pythontutor.com/javascript.html#code=//%20many%20men%20may%20melt%20my%20mind%0A%0A//%20we%20give%20you%20this%0Alet%20_1%20%3D%20'%20',%20_2%20%3D%20'%20',%20_3%20%3D%20'%20',%20_4%20%3D%20'%20'%3B%0Alet%20x,%20y%3B%0A//%20--%20you%20write%20this%20--%0A%0A//%20many%0A%0A//%20men%0A%0A//%20may%0A%0A//%20melt%0A%0A//%20my%0A%0A//%20mind&mode=edit&origin=opt-frontend.js&py=js&rawInputLstJSON=%5B%5D)
         1. [if fir trees ever fall](https://goo.gl/BCC6pz)
 
 
